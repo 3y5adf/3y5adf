@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 안녕하세요
+## 안녕하세요 👋
 
-문제를 파고들고, 해결하는 걸 좋아하는 개발자 지망생. 박충현 입니다.
+문제를 파고들고, 해결하는 걸 좋아하는 개발자 지망생. 
+
+박충현 입니다.
 
 -----
 
@@ -28,9 +30,7 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
 
 -----
