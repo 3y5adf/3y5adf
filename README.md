@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 박충현 입니다.
 
 -----
-### 배운 언어
+### 배운 언어🔰
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 
 -----
 
+### Projects ♻
+
+-----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3y5adf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
