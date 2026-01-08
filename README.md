@@ -36,15 +36,24 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 -----
 
 ### Projects ♻
+
+| 프로젝트명 | 설명 | 방식 |
+|-----------|--------|-------|
+| [I'm Ready](https://github.com/jun-000224/Spring_TeamProject.git) | 한국 여행 추천 코스 플랫폼 | 팀 프로젝트 |
+| [SNS Project](https://github.com/3y5adf/react-project.git)| X(구 트위터) 스타일의 SNS 웹 애플리케이션 | 개인 프로젝트 |
+| [ShakeCook!](https://github.com/harford-stack/flutter_team_project.git) | 흔들어서 만드는 AI 레시피 추천 앱 | 팀 프로젝트 |
 
 -----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3y5adf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
