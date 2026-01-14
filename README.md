@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 | [ShakeCook!](https://github.com/harford-stack/flutter_team_project.git) | 흔들어서 만드는 AI 레시피 추천 앱 | 팀 프로젝트 |
 
 -----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3y5adf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
